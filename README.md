@@ -34,7 +34,7 @@ Some of the upcoming features are:
 
 #### Get Output
 
-```http
+```
   GET /v1
 ```
 
@@ -50,7 +50,7 @@ Some of the upcoming features are:
 | `Content-Type`  | `string` | **Optional**. application/json |
 
 Response:
-```http
+```
     JSON:
     {   "response": "SENSAI_RESPONSE",
         "processes": TOTAL_PROCESSES_CONSUMED,
@@ -64,7 +64,7 @@ Response:
 
 #### Get Processes
 
-```http
+```
   GET /process
 ```
 This is to find out how many processes your prompt values. (This doesn't include the processes of your response.)
