@@ -4,7 +4,7 @@
 
 SensAi is a smart conversational AI built around GPT-2 and GPT-3.5 that can search the internet and also fetch real-time data to answer your queries.
 
-![SensAi - by ScribbleX and DeepNight](https://raw.githubusercontent.com/scribbleX-SDA/SensAi/main/sensai.png)
+![SensAi - by ScribbleX and DeepNight](images/sensai.png)
 ## What Can SensAi Do?
 
 SensAi is built around a highly trained model of GPT-2 and GPT-3.5. It can carry conversations, search the web, and also fetch real-time data.
