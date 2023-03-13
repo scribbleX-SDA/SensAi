@@ -90,7 +90,7 @@ This is to find out how many processes your prompt values. (This doesn't include
 ## Implementation Examples
 
 #### Python
-![Python Example](https://raw.githubusercontent.com/scribbleX-SDA/SensAi/main/images/python.png)
+![Python Example](images/python.png)
 ```Python
 import requests
 import json
@@ -112,7 +112,7 @@ print(response.content)
 ```
 
 #### PHP
-![PHP Example](https://raw.githubusercontent.com/scribbleX-SDA/SensAi/main/images/php.png)
+![PHP Example](images/php.png)
 ```PHP
 <?php
 $url = "https://*********/v1";
@@ -140,7 +140,7 @@ echo $response;
 ```
 
 #### JavsScript
-![JavaScript Example](https://raw.githubusercontent.com/scribbleX-SDA/SensAi/main/images/javascript.png)
+![JavaScript Example](images/javascript.png)
 ```Javascript
 const url = "https://*********/v1";
 const headers = {
@@ -164,7 +164,7 @@ fetch(url, {
 ```
 
 #### cURL
-![cURL Example](https://raw.githubusercontent.com/scribbleX-SDA/SensAi/main/images/curl.png)
+![cURL Example](images/curl.png)
 ```cURL
 curl -X POST "https://*********/v1" \
 -H "Content-Type: application/json" \
@@ -173,7 +173,7 @@ curl -X POST "https://*********/v1" \
 ```
 
 #### Ruby
-![Ruby Example](https://raw.githubusercontent.com/scribbleX-SDA/SensAi/main/images/ruby.png)
+![Ruby Example](images/ruby.png)
 ```Ruby
 require "net/http"
 require "uri"
@@ -195,7 +195,7 @@ puts response.body
 ```
 
 #### Perl
-![Perl Example](https://raw.githubusercontent.com/scribbleX-SDA/SensAi/main/images/perl.png)
+![Perl Example](images/perl.png)
 ```Perl
 use LWP::UserAgent;
 use JSON;
@@ -224,7 +224,7 @@ print $response->decoded_content;
 # Demo
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/scribbleX-SDA/SensAi/main/images/sensai-demo.gif" alt="Demo GIF"/>
+  <img src="images/sensai-demo.gif" alt="Demo GIF"/>
 </p>
 
 ## Feedback
@@ -235,5 +235,5 @@ If you have any feedback, please reach out to us at feedback@scribblex.net
 - [@kstyagi.23](https://github.com/kstyagi23)
 - [@scribblex-SDA](https://github.com/scribbleX-SDA)
 
-![Logo](https://raw.githubusercontent.com/scribbleX-SDA/SensAi/main/sensai.png)
+![Logo](sensai.png)
 
